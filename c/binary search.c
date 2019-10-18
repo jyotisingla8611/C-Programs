@@ -4,13 +4,13 @@
 	int main()
 	{
 		int s;
-		scanf("%d",&s);
-		int *arr=malloc(4*s);
-		int beg=0,end=s-1,mid=(beg+end)/2;
+		scanf("%d", &s);
+		int *arr=malloc(4 * s);
+		int beg = 0, end = s-1, mid = (beg + end) / 2;
 		int i;
-		for(i=0;i<s;i++)
+		for(i = 0;i < s;vi++)
 		{
-			scanf("%d",&arr[i]);
+			scanf("%d", &arr[i]);
 		}
 		int e;
 		printf("Enter elt to search : ");
