@@ -13,10 +13,10 @@
         }
         if(rev==num)
         {
-            printf("\nPalindrome Number..\n");
+            printf("\nPalindrome Number.\n");
         }else
         {
-            printf("\nNot a Palindrome Number..\n");
+            printf("\nNot a Palindrome Number.\n");
         }
         return 0;
     }
