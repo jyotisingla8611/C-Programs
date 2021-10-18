@@ -35,6 +35,7 @@
 				break;
 			}
 		}
+		printf("%s","Sorted Array is");
 		for(i=0;i<5;i++)
 		{
 			printf("%d\t",arr[i]);
